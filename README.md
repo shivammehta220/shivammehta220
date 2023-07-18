@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @shivammehta220
-- 👀 I’m interested in Hardware and Firmware development 
-- 🌱 I’m currently learning Mechanical Engineering
-- 📫 How to reach me: smehta22000@gmail.com
+![Banner](/banner.png)
 
-<!---
-shivammehta220/shivammehta220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Shivam Mehta
+
+I am a Mechanical Engineer and tinkerer with a passion for robotics, programming, hardware, and mechanical design. I love working on various types of projects, which has provided me with experience in working with Linux, ROS2, Arduino, CAD, and Marlin Firmware.
+
+Recently moved my website content here, so all my past and ongoing projects can be found here. Happy Tinkering:wrench:!
